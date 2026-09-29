@@ -1,0 +1,11 @@
+# robots.txt for register.dixperformancenorth.com
+# DIX Trade Show 2027 event site
+
+# Allow all search engines to index the site
+User-agent: *
+Allow: /
+
+# To hide the site from search engines instead (invite-only event),
+# replace the two lines above with:
+#   User-agent: *
+#   Disallow: /
